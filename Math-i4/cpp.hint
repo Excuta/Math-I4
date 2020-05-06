@@ -1,2 +1,0 @@
-#define MATHI4_API __declspec(dllexport)
-#define MATHI4_API __declspec(dllimport)
